@@ -47,4 +47,4 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define TAPPING_TERM 135
 #define BOTH_SHIFTS_TURNS_ON_CAPS_WORD
 #define CAPS_WORD_INVERT_ON_SHIFT
-#define PERMISSIVE_HOLD
+//#define PERMISSIVE_HOLD
